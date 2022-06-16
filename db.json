@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Carlos",
+      "empresa": "Globant",
+      "email": "carlosvampire40@gmail.com",
+      "telefono": "991941461",
+      "notas": "Cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Diseño",
+      "email": "karen@karen.com",
+      "telefono": "9123123123",
+      "notas": "Karen quisiera cotizar",
+      "id": 2
+    },
+    {
+      "nombre": "Edgar Actualizado",
+      "empresa": "Ingenio",
+      "email": "edgar@edgar.com",
+      "telefono": "98123123312",
+      "notas": "Solicita nueva cotización",
+      "id": 4
+    }
+  ]
+}
